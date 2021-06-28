@@ -26,7 +26,7 @@ footer .row {
  display: flex;
   align-items: center;
   color:silver;
-  background-color:none;
+  background-color:silver;
   
 }
 
@@ -144,7 +144,7 @@ footer {
   font-size: 7px;
   padding: 7px 0;
   color:#dbc25g;
-  background-color:black;
+  background-color:silver;
 
 
 
@@ -160,6 +160,6 @@ footer .col-sm-8 {
 
 footer ul {
   color:#dbc25g;
-  background-color:black;
+  background-color:silver;
   list-style: flex;
 }
