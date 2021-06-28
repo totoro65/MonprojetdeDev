@@ -1,0 +1,163 @@
+body {
+  font-family: Roboto, Orbitron , cursive,sans-serif;
+  background-color:#a36dfd;
+  
+  color:#ed8f7;
+  font-size:16px;
+  
+  
+}
+
+header {
+ color: #ed8f7;
+ background-color:black;
+   padding: 16px 0;
+   
+   font-size:16px;
+}
+
+header .row,
+footer .row {
+  color: white;
+  background-color:silver;
+
+  
+ display: flex;
+  align-items: center;
+  color:silver;
+  background-color:none;
+  
+}
+
+h1 {
+  color:#a36dfd;
+  background-color:black;
+  height: flex-bottom;
+  font-weight: 16px;
+  margin: 16px;
+  
+  
+
+nav {
+ background-color:black;
+ color: blue;
+  display:inline-block;
+  justify-content: flex-end;
+  
+}
+
+a {
+color: silver;
+  padding: 9.5px ;
+  margin:  9.5px;
+}
+
+.jumbotron {
+  display:flex-wrap;
+
+  align-items: inline-block;
+  border-image-outset: 11px 5.5px;
+  background-image: url('')
+  background-size:cover;
+  color:black;
+  background-color:silver;
+  height: 11px;
+}
+
+.jumbotron h2 {
+background-color:#dbc25e;
+  font-size: 16px;
+  font-weight: 16px;
+  margin: 8px;
+  color: white;
+ 
+
+ 
+ 
+ 
+}
+
+.jumbotron h3 {
+  Font-size: 16px;
+  margin: 0 0 8px;
+  color: blue;
+  background-color:gray:
+ 
+}
+
+section .row img {
+  color:;
+  
+  
+
+  margin: 1px;
+  width: 1px;
+  
+}
+
+.col-md-6 {
+  color: white;
+  background-color: black;
+  margin: 0 0 auto;
+}
+
+.btn.btn-primary {
+  border-radius: 9px;
+  border: 9px;
+  color: black;
+  background-color:black ;
+}
+
+.btn.btn-primary:hover {
+  color: black;
+  background-color: silver;
+}
+
+.btn-secondary {
+  background-color:black;
+  color: silver
+  margin: 0 0 0 1px;
+}
+
+.portrait {
+  color:black;
+  
+  width:  0 auto;
+  height: 0 auto;
+}
+
+figure img {
+  color:blue;
+  width: 3px;
+  height: 3px;
+  background-color: blue;
+
+}
+
+figure {
+  margin-bottom: blue;
+  color:;
+}
+
+footer {
+  font-size: 7px;
+  padding: 7px 0;
+  color:#dbc25g;
+
+
+
+
+
+
+footer .col-sm-8 {
+  background-color:yellow;
+  color:#dbc25g;
+  display: flex-right;
+  justify-content: flex-end;
+}
+
+footer ul {
+  color:#dbc25g;
+  background-color:yellow;
+  list-style: flex;
+}
