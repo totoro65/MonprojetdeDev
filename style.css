@@ -143,6 +143,7 @@ footer {
   font-size: 7px;
   padding: 7px 0;
   color:#dbc25g;
+  background-color:black;
 
 
 
@@ -150,7 +151,7 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:yellow;
+  background-color:black;
   color:#dbc25g;
   display: flex-right;
   justify-content: flex-end;
@@ -158,6 +159,6 @@ footer .col-sm-8 {
 
 footer ul {
   color:#dbc25g;
-  background-color:yellow;
+  background-color:silver;
   list-style: flex;
 }
