@@ -12,6 +12,7 @@ header {
  color: #ed8f7;
  background-color:silver;
  background-image:url('pink-cherry-blossom.jpg');
+  display:center;
    padding: 16px 0;
    
    font-size:16px;
@@ -24,7 +25,7 @@ footer .row {
   background-image:url('pink-cherry-blossom.jpg');
 
   
- display: flex;
+ display: center;
   align-items: center;
   color:silver;
   background-color:silver;
