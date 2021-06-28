@@ -130,12 +130,12 @@ figure img {
   color:blue;
   width: 3px;
   height: 3px;
-  background-color: blue;
+  background-color: none;
 
 }
 
 figure {
-  margin-bottom: blue;
+  margin-bottom:none;
   color:;
 }
 
@@ -159,6 +159,6 @@ footer .col-sm-8 {
 
 footer ul {
   color:#dbc25g;
-  background-color:silver;
+  background-color:black;
   list-style: flex;
 }
