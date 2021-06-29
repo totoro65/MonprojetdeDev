@@ -115,18 +115,18 @@ section .row img {
 }
 
 .btn.btn-primary:hover {
-  color: red;
-  background-color: silver;
+  color: white;
+  background-color: #a36dfd;
 }
 
 .btn-secondary {
-  background-color:red;
-  color: silver
+  background-color:#a36dfd;
+  color: white;
   margin: 0 0 0 1px;
 }
 .button {
   display: block;
-  color:red;
+  color:#a36dfd;
   }
   
 .portrait {
