@@ -140,10 +140,10 @@ section .row img {
 }
 
 figure img {
-  color:blue;
+  color:#a36dfd;
   width: 3px;
   height: 3px;
-  background-color: none;
+  background-color: silver;
 
 }
 
@@ -156,7 +156,7 @@ footer {
   font-size: 7px;
   padding: 7px 0;
   color:#dbc25g;
-  background-color:silver;
+  background-color:pink;
 
 
 
@@ -164,14 +164,14 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:black;
-  color:#dbc25g;
+  background-color:pink;
+  color:#a36dfd;
   display: flex-right;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:#dbc25g;
-  background-color:silver;
+  color:#a36dfd;
+  background-color:pink;
   list-style: flex;
 }
