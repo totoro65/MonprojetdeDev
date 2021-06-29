@@ -52,6 +52,9 @@ nav {
   
 }
 
+  
+  a:link { color: red; }
+
 a {
 color: silver;
   padding: 9.5px ;
