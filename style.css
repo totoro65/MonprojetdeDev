@@ -43,9 +43,12 @@ h1 {
 
 nav {
  background-color:black;
- color: blue;
+ color: red;
   display:inline-block;
   justify-content: flex-end;
+  
+  av a:hover {
+  color: white;
   
 }
 
