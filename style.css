@@ -115,16 +115,20 @@ section .row img {
 }
 
 .btn.btn-primary:hover {
-  color: black;
+  color: red;
   background-color: silver;
 }
 
 .btn-secondary {
-  background-color:black;
+  background-color:red;
   color: silver
   margin: 0 0 0 1px;
 }
-
+.button {
+  display: block;
+  color:red;
+  }
+  
 .portrait {
   color:black;
   
