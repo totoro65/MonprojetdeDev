@@ -11,7 +11,7 @@ body {
 header {
  color: #ed8f7;
  background-color:silver;
- background-image:url('R473f2f2d6075d74b12e98681bd5d95ba.jpg');
+ background-image:url('wp5179759.png');
   display:center;
    padding: 16px 0;
    
@@ -21,8 +21,8 @@ header {
 header .row,
 footer .row {
   color: black;
-  background-color:silver;
-  background-image:url('R473f2f2d6075d74b12e98681bd5d95ba.jpg');
+  background-color:none;
+  background-image:url('wp5179759.png');
 
   
  display: center;
