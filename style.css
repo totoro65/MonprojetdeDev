@@ -27,8 +27,8 @@ footer .row {
   
  display: center;
   align-items: center;
-  color:silver;
-  background-color:silver;
+  color:pink;
+  background-color:#a36dfd;;
   
 }
 
@@ -118,13 +118,13 @@ section .row img {
 }
 
 .btn.btn-primary:hover {
-  color: white;
+  color: green;
   background-color: #a36dfd;
 }
 
 .btn-secondary {
   background-color:#a36dfd;
-  color: white;
+  color: green;
   margin: 0 0 0 1px;
 }
 .button {
