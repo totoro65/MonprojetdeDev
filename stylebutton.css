@@ -21,3 +21,6 @@ margin: 5px;
   button:hover {
 background-color: green;
 }
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
