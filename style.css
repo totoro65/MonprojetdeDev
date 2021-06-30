@@ -27,8 +27,8 @@ footer .row {
   
  display: center;
   align-items: center;
-  color:pink;
-  background-color:#a36dfd;;
+  color:green;
+  background-color:white;
   
 }
 
@@ -53,10 +53,10 @@ nav {
 }
 
   
-  a:link { color: red; }
+  a:link { color: yellow; }
 
 a {
-color: silver;
+color: yellow;
   padding: 9.5px ;
   margin:  9.5px;
 }
@@ -89,8 +89,8 @@ background-color:#dbc25e;
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: blue;
-  background-color:gray:
+  color: green;
+  background-color:white:
  
 }
 
@@ -106,15 +106,15 @@ section .row img {
 
 .col-md-6 {
   color: white;
-  background-color: black;
+  background-color: green;
   margin: 0 0 auto;
 }
 
 .btn.btn-primary {
   border-radius: 9px;
   border: 9px;
-  color: black;
-  background-color:black ;
+  color: white;
+  background-color:green ;
 }
 
 .btn.btn-primary:hover {
@@ -129,7 +129,7 @@ section .row img {
 }
 .button {
   display: block;
-  color:#a36dfd;
+  color:yellow;
   }
   
 .portrait {
@@ -140,10 +140,10 @@ section .row img {
 }
 
 figure img {
-  color:#a36dfd;
+  color:white;
   width: 3px;
   height: 3px;
-  background-color: pink;
+  background-color: green;
 
 }
 
@@ -155,8 +155,8 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:#dbc25g;
-  background-color:pink;
+  color:red;
+  background-color:green;
 
 
 
@@ -164,14 +164,14 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:pink;
-  color:#a36dfd;
+  background-color:red
+  color:green;
   display: flex-right;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:white;
-  background-color:black;;
+  color:green;
+  background-color:white;
   list-style: flex;
 }
