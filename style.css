@@ -10,7 +10,7 @@ body {
 
 header {
  color: Black;
- background-color:white;
+ background-color:yellow;
  background-image:none;
   display:center;
    padding: 16px 0;
@@ -27,8 +27,8 @@ footer .row {
   
  display: center;
   align-items: center;
-  color:yellow;
-  background-color:black
+  color:black;
+  background-color:yellow
   
 }
 
