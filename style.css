@@ -123,13 +123,13 @@ section .row img {
 }
 
 .btn-secondary {
-  background-color:#a36dfd;
-  color: red;
-  margin: 0 0 0 1px;
+  background-color:red;
+  color: white;
+  margin: 0 0 0 7px;
 }
 .button {
   display: block;
-  color:yellow;
+  color:lime;
   }
   
 .portrait {
@@ -166,7 +166,7 @@ footer {
 footer .col-sm-8 {
   background-color:white
   color:red;
-  display: flex-right;
+  display: flex-center;
   justify-content: flex-end;
 }
 
