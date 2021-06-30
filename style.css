@@ -2,14 +2,14 @@ body {
   font-family: 'Black+Han+Sans', sans-serif ;
   background-color:red;
   
-  color:black;
+  color:white;
   font-size:16px;
   
   
 }
 
 header {
- color: black;
+ color: white;
  background-color:red;
  background-image:none;
   display:center;
@@ -20,20 +20,20 @@ header {
 
 header .row,
 footer .row {
-  color:black ;
+  color:redk ;
   background-color:white;
   background-image:none;
 
   
  display: center;
   align-items: center;
-  color:lime;
+  color:black;
   background-color:white;
   
 }
 
 h1 {
-  color:lime;
+  color:red;
   background-color:ivory;
   height: flex-bottom;
   font-weight: 16px;
@@ -43,7 +43,7 @@ h1 {
 
 nav {
  background-color:;
- color: black;
+ color: red;
   display:inline-block;
   justify-content: flex-end;
   
@@ -53,7 +53,7 @@ nav {
 }
 
   
-  a:link { color: yellow; }
+  a:link { color: lime; }
 
 a {
 color: yellow;
@@ -68,13 +68,13 @@ color: yellow;
   border-image-outset: 11px 5.5px;
   background-image: url('')
   background-size:cover;
-  color:black;
+  color:white;
   background-color:lime;
   height: 11px;
 }
 
 .jumbotron h2 {
-background-color:#dbc25e;
+background-color:white;
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
@@ -89,13 +89,13 @@ background-color:#dbc25e;
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: black;
+  color: red;
   background-color:white:
  
 }
 
 section .row img {
-  color:black;
+  color:lime;
   
   
 
@@ -140,7 +140,7 @@ section .row img {
 }
 
 figure img {
-  color:black;
+  color:bwhite;
   width: 3px;
   height: 3px;
   background-color: red;
@@ -149,7 +149,7 @@ figure img {
 
 figure {
   margin-bottom:none;
-  color:lime;
+  color:red;
 }
 
 footer {
