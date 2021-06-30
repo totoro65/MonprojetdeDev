@@ -68,7 +68,7 @@ color: yellow;
   border-image-outset: 11px 5.5px;
   background-image: url('')
   background-size:cover;
-  color:black;
+  color:white;
   background-color:lime;
   height: 11px;
 }
@@ -149,7 +149,7 @@ figure img {
 
 figure {
   margin-bottom:none;
-  color:;
+  color:lime;
 }
 
 footer {
