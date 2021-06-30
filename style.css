@@ -33,7 +33,7 @@ footer .row {
 }
 
 h1 {
-  color:gray;
+  color:lime;
   background-color:ivory;
   height: flex-bottom;
   font-weight: 16px;
@@ -133,7 +133,7 @@ section .row img {
   }
   
 .portrait {
-  color:Balck;
+  color:Black;
   
   width:  0 auto;
   height: 0 auto;
