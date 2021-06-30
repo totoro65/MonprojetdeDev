@@ -68,7 +68,7 @@ color: yellow;
   border-image-outset: 11px 5.5px;
   background-image: url('')
   background-size:cover;
-  color:white;
+  color:black;
   background-color:lime;
   height: 11px;
 }
@@ -95,7 +95,7 @@ background-color:#dbc25e;
 }
 
 section .row img {
-  color:;
+  color:black;
   
   
 
