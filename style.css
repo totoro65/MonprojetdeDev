@@ -2,7 +2,7 @@ body {
   font-family: 'Black+Han+Sans', sans-serif ;
   background-color:white;
   
-  color:red;
+  color:black;
   font-size:16px;
   
   
@@ -43,17 +43,13 @@ h1 {
 
 nav {
  background-color:;
- color: red;
+ color: yellow;
   display:inline-block;
   justify-content: flex-end;
   
-  nav a:hover {
-  color:balck ;
-  
-}
 
   
-  a:link { color: lime; }
+  
 
 a {
 color: yellow;
@@ -68,7 +64,7 @@ color: yellow;
   border-image-outset: 11px 5.5px;
   background-image: url('')
   background-size:cover;
-  color:red;
+  color:black;
   background-color:white;
   height: 11px;
 }
@@ -89,7 +85,7 @@ background-color:white;
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: red;
+  color: black;
   background-color:white:
  
 }
@@ -105,7 +101,7 @@ section .row img {
 }
 
 .col-md-6 {
-  color: red;
+  color: black;
   background-color: white;
   margin: 0 0 auto;
 }
@@ -118,7 +114,7 @@ section .row img {
 }
 
 .btn.btn-primary:hover {
-  color: red;
+  color: black;
   background-color: white;
 }
 
@@ -143,19 +139,19 @@ figure img {
   color:white;
   width: 3px;
   height: 3px;
-  background-color: red;
+  background-color: black;
 
 }
 
 figure {
   margin-bottom:none;
-  color:red;
+  color:black;
 }
 
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:red;
+  color:black;
   background-color:white;
 
 
@@ -171,7 +167,7 @@ footer .col-sm-8 {
 }
 
 footer ul {
-  color:red;
+  color:black;
   background-color:white;
   list-style: flex;
 }
