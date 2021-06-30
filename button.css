@@ -4,7 +4,7 @@
 <style>
 .button {
   background-color:white; /* Green */
-  border: silver;
+  border: lime;
   color: yellow;
   padding: 15px 32px;
   text-align: center;
@@ -15,10 +15,10 @@
   cursor: pointer;
 }
 
-.button2 {background-color:white ;} /* Blue */
-.button3 {background-color: white";} /* yellow */ 
-.button4 {background-color: white; color:yellow;} /* Gray */ 
-.button5 {background-color:white ;} /* Black */
+.button2 {background-color:red ;} /* white */
+.button3 {background-color: red";} /* white */ 
+.button4 {background-color: red; color:white;} /*red */ 
+.button5 {background-color:white ;} /* red */
 </style>
 </head>
 <body>
