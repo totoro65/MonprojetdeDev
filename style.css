@@ -1,8 +1,8 @@
 body {
   font-family: 'Black+Han+Sans', sans-serif ;
-  background-color:silver;
+  background-color:red;
   
-  color:red;
+  color:white;
   font-size:16px;
   
   
@@ -133,7 +133,7 @@ section .row img {
   }
   
 .portrait {
-  color:black;
+  color:lime;
   
   width:  0 auto;
   height: 0 auto;
