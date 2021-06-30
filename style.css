@@ -2,14 +2,14 @@ body {
   font-family: 'Black+Han+Sans', sans-serif ;
   background-color:red;
   
-  color:lime;
+  color:black;
   font-size:16px;
   
   
 }
 
 header {
- color: white;
+ color: black;
  background-color:red;
  background-image:none;
   display:center;
@@ -20,7 +20,7 @@ header {
 
 header .row,
 footer .row {
-  color:red ;
+  color:black ;
   background-color:white;
   background-image:none;
 
@@ -43,7 +43,7 @@ h1 {
 
 nav {
  background-color:;
- color: ;
+ color: black;
   display:inline-block;
   justify-content: flex-end;
   
@@ -89,7 +89,7 @@ background-color:#dbc25e;
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: red;
+  color: black;
   background-color:white:
  
 }
@@ -140,7 +140,7 @@ section .row img {
 }
 
 figure img {
-  color:white;
+  color:black;
   width: 3px;
   height: 3px;
   background-color: red;
