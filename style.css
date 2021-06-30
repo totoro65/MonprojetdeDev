@@ -86,7 +86,7 @@ background-color:yellow
   Font-size: 16px;
   margin: 0 0 8px;
   color: black;
-  background-color:white:
+  background-color:red:
  
 }
 
@@ -136,7 +136,7 @@ section .row img {
 }
 
 figure img {
-  color:white;
+  color:red;
   width: 3px;
   height: 3px;
   background-color: yellow;
