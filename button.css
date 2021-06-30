@@ -3,9 +3,9 @@
 <head>
 <style>
 .button {
-  background-color:white; /* Green */
-  border: lime;
-  color: white;
+  background-color:lime; /* Green */
+  border: red;
+  color: black;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -15,10 +15,10 @@
   cursor: pointer;
 }
 
-.button2 {background-color:red ;} /* white */
-.button3 {background-color: red";} /* white */ 
+.button2 {background-color:red ;} /* lime*/
+.button3 {background-color: red";} /* lime */ 
 .button4 {background-color: red; color:lime} /*r*/ 
-.button5 {background-color:white ;} /* red */
+.button5 {background-color:white ;} /* lime*/
 </style>
 </head>
 <body>
