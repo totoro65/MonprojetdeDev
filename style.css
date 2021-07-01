@@ -1,8 +1,8 @@
 body {
   font-family: 'Black+Han+Sans', sans-serif ;
-  background-color:yellow;
+  background-color:white;
   
-  color:blue;
+  color:black;
   font-size:16px;
   
   
@@ -10,8 +10,8 @@ body {
 
 header {
  color: Black;
- background-color:yellow;
- background-image:none;
+ background-color:white;
+ background-image:cover;
   display:center;
    padding: 16px 0;
    
@@ -20,20 +20,20 @@ header {
 
 header .row,
 footer .row {
-  color: blue;
-  background-color:yellow;
+  color: black;
+  background-color:white;
   background-image:none;
 
   
  display: center;
   align-items: center;
-  color:blue;
-  background-color:yellow
+  color:black
+  background-color:white;
   
 }
 
 h1 {
-  color:blue;
+  color:black;
   background-color:white;
   height: flex-bottom;
   font-weight: 16px;
@@ -42,8 +42,8 @@ h1 {
   
 
 nav {
- background-color:;
- color: yellow;
+ background-color:white;
+ color: black;
   display:inline-block;
   justify-content: flex-end;
   
@@ -52,25 +52,25 @@ nav {
   
 
 a {
-color: yellow;
-  padding: 9.5px ;
-  margin:  9.5px;
+color: black;
+  padding: 19px ;
+  margin:  19px;
 }
 
 .jumbotron {
   display:flex-wrap;
 
-  align-items: inline-block;
-  border-image-outset: 11px 5.5px;
+  align-items: flex;
+  border-image-outset: 11px ;
   background-image: url('')
   background-size:cover;
   color:black;
-  background-color:yellow;
+  background-color:white;
   height: 11px;
 }
 
 .jumbotron h2 {
-background-color:yellow
+background-color:white;
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
@@ -85,7 +85,7 @@ background-color:yellow
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: blue;
+  color: black;
   background-color:white;
  
 }
@@ -110,7 +110,7 @@ section .row img {
   border-radius: 9px;
   border: 9px;
   color: black;
-  background-color:yellow ;
+  background-color:white ;
 }
 
 .btn.btn-primary:hover {
@@ -120,7 +120,7 @@ section .row img {
 
 .btn-secondary {
   background-color:black;
-  color: yellow;
+  color: white;
   margin: 0 0 0 7px
 }
 .button {
@@ -136,23 +136,23 @@ section .row img {
 }
 
 figure img {
-  color:blue;
+  color:white;
   width: 3px;
   height: 3px;
-  background-color: yellow;
+  background-color: black
 
 }
 
 figure {
   margin-bottom:none;
-  color:blue;
+  color:black;
 }
 
 footer {
   font-size: 7px;
   padding: 7px 0;
   color:black;
-  background-color:blue;
+  background-color:white;
 
 
 
@@ -168,6 +168,6 @@ footer .col-sm-8 {
 
 footer ul {
   color:black;
-  background-color:blue;
+  background-color:white;
   list-style: flex;
 }
