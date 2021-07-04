@@ -1,5 +1,5 @@
 body {
-  font-family: 'Black+Han+Sans', sans-serif ;
+  font-family: 'Otomanopee One', sans-serif ;
   background-color:white;
   background-image: url('Sans%20titre.png');
   
@@ -21,21 +21,21 @@ header {
 
 header .row,
 footer .row {
-  color: black;
-  background-color:white;
+  color: white;
+  background-color:black;
   background-image:url ('Sans%20titre.png');
 
   
  display: center;
   align-items: center;
-  color:black
+  color:white;
   background-image:url('Sans%20titre.png');
   
 }
 
 h1 {
-  color:black;
-  background-color:white;
+  color:white;
+  background-color:black;
   height: flex-bottom;
   font-weight: 16px;
   margin: 16px;
