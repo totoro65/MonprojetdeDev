@@ -9,7 +9,7 @@ body {
 
 header {
  color: Black;
- background-color:white;
+ background-color:none;
  background-image: url ('Sans%20titre.png');
   display:center;
    padding: 30px 0;
@@ -33,7 +33,7 @@ footer .row {
 
 h1 {
   color:black;
-  background-image:url('');
+  background-image:url('Sans%20titre.png');
   height: flex-bottom;
   font-weight: 16px;
   margin: 16px;
