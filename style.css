@@ -24,21 +24,21 @@ header {
 
 header .row,
 footer .row {
-  color: white;
-  background-color:black;
+  color: black;
+  background-color:none;
   background-image:url ('bordure.png');
 
   
  display: center;
   align-items: center;
-  color:white;
+  color:black;
   background-image:url('bordure.png');
   
 }
 
 h1 {
-  color:white;
-  background-color:black;
+  color:black;
+  background-image:url('');
   height: flex-bottom;
   font-weight: 16px;
   margin: 16px;
