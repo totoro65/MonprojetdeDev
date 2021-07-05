@@ -10,8 +10,8 @@ body {
 
 header {
  color: Black;
- background-color:none;
- background-image: url ('Sans%20titre.png');
+ background-color:blue;
+ background-image:none;
   display:center;
    padding: 30px 0;
    
@@ -34,7 +34,7 @@ footer .row {
 
 h1 {
   color:black;
-  background-image:url('Sans%20titre.png');
+  background-image:none;
   height: flex-bottom;
   font-weight: 16px;
   margin: 16px;
