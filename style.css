@@ -1,7 +1,7 @@
 body {
   font-family: 'Otomanopee One', sans-serif ;
   background-color:white;
-  background-image: url('bordure.png');
+ 
   
   
   
@@ -20,14 +20,14 @@ header {
 header .row,
 footer .row {
   color: black;
-  background-color:none;
-  background-image:url ('bordure.png');
+  background-color:white;
+ 
 
   
  display: center;
   align-items: center;
   color:black;
-  background-image:url('bordure.png');
+  background-color:white;
   
 }
 
