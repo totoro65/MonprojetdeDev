@@ -1,5 +1,5 @@
 # MonprojetdeDev
-![bordure](https://github.com/totoro65/MonprojetdeDev-index.html/blob/main/bordure.png?raw=true)
+
 ![Sans%20titre](https://github.com/totoro65/MonprojetdeDev-index.html/blob/main/Sans%20titre.png?)
 
 ![thumb-1920-247059](https://github.com/totoro65/MonprojetdeDev-index.html/blob/main/thumb-1920-247059.png?raw=true)
