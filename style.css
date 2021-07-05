@@ -55,6 +55,13 @@ color: black;
   padding: 21px ;
   margin:  21px;
 }
+  
+  a {
+	color: white; text-decoration: none;
+}
+	a:hover {
+		color: blue;
+	}
 
 .jumbotron {
   display:flex-wrap;
