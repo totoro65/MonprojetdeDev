@@ -9,8 +9,8 @@ body {
 }
 
 header {
- color: Black;
- background-color:blue;
+ color: lime;
+ background-color:white;
  background-image:none;
   display:center;
    padding: 30px 0;
@@ -20,20 +20,20 @@ header {
 
 header .row,
 footer .row {
-  color: white;
+  color: lime;
   background-color:black;
  
 
   
  display: center;
   align-items: center;
-  color:white;
+  color:lime;
   background-color:black;
   
 }
 
 h1 {
-  color:white;
+  color:lime;
   background-image:url('spaceshipearthdribbble.png');
   height: flex-bottom;
   font-weight: 16px;
@@ -43,7 +43,7 @@ h1 {
 
 nav {
  background-color:black;
- color: white;
+ color: lime;
   display:flex-block;
   justify-content: flex-end;
   
@@ -58,10 +58,10 @@ color: black;
 }
   
   a {
-	color: white; text-decoration: none;
+	color: lime; text-decoration: none;
 }
 	a:hover {
-		color: grey;
+		color: silver;
 	}
 
 .jumbotron {
@@ -82,7 +82,7 @@ background-image:url('spaceshipearthdribbble.png');
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
-  color: grey;
+  color: lime;
  
 
  
@@ -93,13 +93,13 @@ background-image:url('spaceshipearthdribbble.png');
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: white;
+  color: lime;
   background-color:black;
  
 }
 
 section .row img {
-  color:black;
+  color:lime;
   display: center;
   
 
@@ -109,7 +109,7 @@ section .row img {
 }
 
 .col-md-6 {
-  color: white;
+  color: lime;
   background-color: black;
   margin: 0 0 auto;
 }
@@ -117,23 +117,23 @@ section .row img {
 .btn.btn-primary {
   border-radius: 9px;
   border: 9px;
-  color: white;
+  color: lime;
   background-color:black ;
 }
 
 .btn.btn-primary:hover {
-  color: black;
-  background-color: white;
+  color: lime;
+  background-color: black;
 }
 
 .btn-secondary {
   background-color:black;
-  color: white;
+  color: lime;
   margin: 0 0 0 7px
 }
 .button {
   display: block;
-  color:black;
+  color:lime;
   }
   
 .portrait {
@@ -144,7 +144,7 @@ section .row img {
 }
 
 figure img {
-  color:white;
+  color:lime;
   width: 3px;
   height: 3px;
   background-color: black
@@ -160,7 +160,7 @@ footer {
   font-size: 7px;
   padding: 7px 0;
   color:black;
-  background-color:white;
+  background-color:lime;
 
 
 
@@ -168,14 +168,14 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:white;
+  background-color:lime;
   color:black;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:black;
-  background-color:white;
+  color:lime;
+  background-color:black;
   list-style: flex;
 }
