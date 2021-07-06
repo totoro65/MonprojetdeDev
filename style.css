@@ -46,7 +46,7 @@ h1 {
 
 nav {
  background-color:black;
- color: pink;
+ color: lime;
   display:flex-block;
   justify-content: flex-end;
 
@@ -163,8 +163,8 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:pink;
-  background-color:white;
+  color:silver;
+  background-color:lime;
 
 
 
