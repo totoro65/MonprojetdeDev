@@ -1,7 +1,7 @@
 body {
   font-family:'Tourney', cursive;
   background-color:black;
-	color: lime;
+	color: white;
  
   
   
@@ -9,7 +9,7 @@ body {
 }
 
 header {
- color: lime;
+ color: Black;
  background-color:white;
  background-image:none;
   display:center;
@@ -33,7 +33,7 @@ footer .row {
 }
 
 h1 {
-  color:lime;
+  color:white;
   background-image:none;
   height: flex-bottom;
   font-weight: 16px;
@@ -43,7 +43,7 @@ h1 {
 
 nav {
  background-color:black;
- color: lime;
+ color: white;
   display:flex-block;
   justify-content: flex-end;
 
@@ -53,13 +53,13 @@ nav {
   
 
 a {
-color: black;
+color: White;
   padding: 21px ;
   margin:  21px;
 }
   
   a {
-	color: lime; text-decoration: none;
+	color: White; text-decoration: none;
 }
 	a:hover {
 		color: silver;
@@ -71,10 +71,10 @@ color: black;
   align-items: flex;
   border-image-outset: 11px ;
 display :center-block;
-  background-image: url('Sans%20titre.png')
+
   background-size:cover;
-  color:white;
-  background-color:black;
+  color:black;
+  background-color:White;
   height: 11px;
 }
 
@@ -83,7 +83,7 @@ background-image:url('spaceshipearthdribbble.png');
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
-  color: lime;
+  color: white;
  
 
  
@@ -94,13 +94,13 @@ background-image:url('spaceshipearthdribbble.png');
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: lime;
+  color: white;
   background-color:black;
  
 }
 
 section .row img {
-  color:lime;
+  color:white;
   display: center;
   
 
@@ -110,7 +110,7 @@ section .row img {
 }
 
 .col-md-6 {
-  color: lime;
+  color: white;
   background-color: black;
   margin: 0 0 auto;
 }
@@ -118,34 +118,34 @@ section .row img {
 .btn.btn-primary {
   border-radius: 9px;
   border: 9px;
-  color: lime;
+  color: white;
   background-color:black ;
 }
 
 .btn.btn-primary:hover {
-  color: lime;
+  color: white;
   background-color: black;
 }
 
 .btn-secondary {
   background-color:black;
-  color: lime;
+  color: white;
   margin: 0 0 0 7px
 }
 .button {
   display: block;
-  color:lime;
+  color:white;
   }
   
 .portrait {
-  color:Black;
+  color:white;
   
   width:  0 auto;
   height: 0 auto;
 }
 
 figure img {
-  color:lime;
+  color:white;
   width: 3px;
   height: 3px;
   background-color: black
@@ -161,7 +161,7 @@ footer {
   font-size: 7px;
   padding: 7px 0;
   color:black;
-  background-color:lime;
+  background-color:white;
 
 
 
@@ -169,14 +169,14 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:lime;
+  background-color:white;
   color:black;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:lime;
+  color:white;
   background-color:black;
   list-style: flex;
 }
