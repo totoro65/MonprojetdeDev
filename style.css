@@ -11,7 +11,7 @@ body {
 header {
  color: Black;
  background-color:white;
- background-image:url('photo-1623700804300-41456af53cc0.jpg');
+ background-image:none;
   display:center;
    padding: 60px 0;
    
@@ -79,7 +79,7 @@ display :center-block;
 }
 
 .jumbotron h2 {
-background-image:url('spaceshipearthdribbble.png');
+background-image:url('photo-1574681165663-d45c0cd6bfaf.jpg');
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
