@@ -13,7 +13,7 @@ body {
 
 header {
  color: Black;
- background-color:pink;
+ background-color:silver;
  background-image:none;
   display:center;
    padding: 60px 0;
@@ -36,7 +36,7 @@ footer .row {
 }
 
 h1 {
-  color:pink;
+  color:white;
   background-image:none;
   height: flex-bottom;
   font-weight: 16px;
@@ -173,13 +173,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:white;
-  color:pink;
+  color:lime;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:pink;
+  color:lime;
   background-color:black;
   list-style: flex;
 }
