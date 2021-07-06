@@ -3,7 +3,8 @@
 body {
   font-family:'Tourney', cursive;
   background-color:black;
-	color: pink;
+	background-image: url('');
+	color: lime;
  
   
   
@@ -85,7 +86,7 @@ background-image:silver;
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
-  color: pink;
+  color: lime;
  
 
  
