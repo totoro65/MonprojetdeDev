@@ -12,7 +12,7 @@ body {
 
 header {
  color: Black;
- background-color:white;
+ background-color:pink;
  background-image:none;
   display:center;
    padding: 60px 0;
@@ -35,7 +35,7 @@ footer .row {
 }
 
 h1 {
-  color:white;
+  color:pink;
   background-image:none;
   height: flex-bottom;
   font-weight: 16px;
@@ -45,7 +45,7 @@ h1 {
 
 nav {
  background-color:black;
- color: white;
+ color: pink;
   display:flex-block;
   justify-content: flex-end;
 
@@ -75,7 +75,7 @@ color: White;
 display :center-block;
 
   background-size:cover;
-  color:black;
+  color:pink;
   background-color:White;
   height: 11px;
 }
@@ -85,7 +85,7 @@ background-image:silver;
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
-  color: white;
+  color: pink;
  
 
  
@@ -162,7 +162,7 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:black;
+  color:pink;
   background-color:white;
 
 
@@ -172,13 +172,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:white;
-  color:black;
+  color:pink;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:white;
+  color:pink;
   background-color:black;
   list-style: flex;
 }
