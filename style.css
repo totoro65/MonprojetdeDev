@@ -1,7 +1,7 @@
 body {
   font-family:'Zen Tokyo Zoo', cursive; 
   background-color:black;
-	background-image: url('spaceshipearthdribbble.png');
+	background-image:none;
  
   
   
@@ -34,7 +34,7 @@ footer .row {
 
 h1 {
   color:lime;
-  background-image:url('spaceshipearthdribbble.png');
+  background-image:none;
   height: flex-bottom;
   font-weight: 16px;
   margin: 16px;
