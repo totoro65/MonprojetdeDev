@@ -1,6 +1,6 @@
 body {
-  font-family: 'Otomanopee One', sans-serif ;
-  background-color:white;
+  font-family:'Zen Tokyo Zoo', cursive; 
+  background-color:black;
 	background-image: url('triangle-multicolour-triangle-pattern-flooring-multicolour.jpg');
  
   
@@ -20,20 +20,20 @@ header {
 
 header .row,
 footer .row {
-  color: black;
-  background-color:white;
+  color: white;
+  background-color:black;
  
 
   
  display: center;
   align-items: center;
-  color:black;
-  background-color:white;
+  color:white;
+  background-color:black;
   
 }
 
 h1 {
-  color:black;
+  color:white;
   background-image:url('triangle-multicolour-triangle-pattern-flooring-multicolour.jpg');
   height: flex-bottom;
   font-weight: 16px;
@@ -42,9 +42,9 @@ h1 {
   
 
 nav {
- background-color:white;
- color: black;
-  display:inline-block;
+ background-color:black;
+ color: white;
+  display:flex-block;
   justify-content: flex-end;
   
 
@@ -61,7 +61,7 @@ color: black;
 	color: white; text-decoration: none;
 }
 	a:hover {
-		color: blue;
+		color: grey;
 	}
 
 .jumbotron {
@@ -72,8 +72,8 @@ color: black;
 display :center-block;
   background-image: url('Sans%20titre.png')
   background-size:cover;
-  color:black;
-  background-color:white;
+  color:white;
+  background-color:black;
   height: 11px;
 }
 
@@ -82,7 +82,7 @@ background-image:url('Sans%20titre.png');
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
-  color: Black;
+  color: grey;
  
 
  
@@ -93,13 +93,13 @@ background-image:url('Sans%20titre.png');
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: black;
-  background-color:white;
+  color: white;
+  background-color:black;
  
 }
 
 section .row img {
-  color:silver;
+  color:black;
   display: center;
   
 
@@ -109,21 +109,21 @@ section .row img {
 }
 
 .col-md-6 {
-  color: black;
-  background-color: white;
+  color: white;
+  background-color: black;
   margin: 0 0 auto;
 }
 
 .btn.btn-primary {
   border-radius: 9px;
   border: 9px;
-  color: black;
-  background-color:white ;
+  color: white;
+  background-color:black ;
 }
 
 .btn.btn-primary:hover {
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: white;
 }
 
 .btn-secondary {
