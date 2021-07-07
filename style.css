@@ -23,14 +23,14 @@ header {
 
 header .row,
 footer .row {
-  color: white;
+  color:#bce98b ;
   background-color:black;
  
 
   
  display: center;
   align-items: center;
-  color:white;
+  color:#bce98b;
   background-color:black;
   
 }
