@@ -41,6 +41,7 @@ h1 {
   height: flex-bottom;
   font-weight: 16px;
   margin: 19px;
+  display:center;
   
   
 
@@ -49,6 +50,7 @@ nav {
  color: #b8860b;
   display:flex-block;
   justify-content: flex-end;
+	display: center;
 
   
 
@@ -69,7 +71,7 @@ color: White;
 	}
 
 .jumbotron {
-  display:flex-wrap;
+  display:center;
 
   align-items: flex;
   border-image-outset: 11px ;
@@ -99,6 +101,7 @@ background-image:silver;
   margin: 0 0 8px;
   color: white;
   background-color:black;
+  display:center;
  
 }
 
@@ -128,6 +131,7 @@ section .row img {
 .btn.btn-primary:hover {
   color: white;
   background-color: black;
+	display: center;
 }
 
 .btn-secondary {
@@ -136,7 +140,7 @@ section .row img {
   margin: 0 0 0 7px
 }
 .button {
-  display: block;
+  display: center;
   color:white;
   }
   
@@ -158,6 +162,7 @@ figure img {
 figure {
   margin-bottom:none;
   color:black;
+	display:center;
 }
 
 footer {
