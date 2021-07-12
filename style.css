@@ -36,7 +36,7 @@ footer .row {
 }
 
 h1 {
-  color:white;
+  color:black;
   background-image:none;
   height: flex-bottom;
   font-weight: 16px;
@@ -168,8 +168,8 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:black;
-  background-color:white;
+  color:white;
+  background-color:black;
 
 
 
@@ -177,14 +177,14 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:white;
-  color:black;
+  background-color:black;
+  color:white;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:black;
-  background-color:white;
+  color:white;
+  background-color:black;
   list-style: flex;
 }
