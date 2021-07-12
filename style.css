@@ -168,8 +168,8 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:blue;
-  background-color:#bce98b;
+  color:black;
+  background-color:white;
 
 
 
@@ -178,13 +178,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:white;
-  color:blue;
+  color:black;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:blue;
-  background-color:black;
+  color:black;
+  background-color:white;
   list-style: flex;
 }
