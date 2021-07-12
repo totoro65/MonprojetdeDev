@@ -8,4 +8,3 @@
 ![thumb-1920-917169](https://github.com/totoro65/MonprojetdeDev-index.html/blob/main/thumb-1920-917169.jpg?raw=true)
 ![OIP%20(3](https://github.com/totoro65/MonprojetdeDev-index.html/blob/main/OIP%20(3).jpg?raw=true)
 ![Gimp-Logo](https://github.com/totoro65/MonprojetdeDev.html/blob/main/Gimp-Logo.png?raw=true)
-![IMG_20210712_135419923_HDR](https://github.com/totoro65/MonprojetdeDev.html/blob/main/IMG_20210712_135419923_HDR.png?raw=true)
