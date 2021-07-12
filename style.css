@@ -4,7 +4,7 @@ body {
   font-family:'Tourney', cursive;
   background-color:silver ;
 	background-image: url('HnpKwfZ.jpg');
-	color: #8A2BE2;
+	color: black;
        font-size: 30px;
   
   
@@ -58,16 +58,16 @@ nav {
   
 
 a {
-color: White;
+color: black;
   padding: 21px ;
   margin:  21px;
 }
   
   a {
-	color: red; text-decoration: none;
+	color: black; text-decoration: none;
 }
 	a:hover {
-		color: silver;
+		color: black;
 	}
 
 .jumbotron {
@@ -168,7 +168,7 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:red;
+  color:black;
   background-color:silver;
 
 
@@ -178,13 +178,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:silver;
-  color:red;
+  color:black;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:red;
+  color:black;
   background-color:silver;
   list-style: flex;
 }
