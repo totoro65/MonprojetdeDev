@@ -31,7 +31,7 @@ footer .row {
  display: center;
   align-items: center;
   color:#bce98b;
-  background-color:black;
+  background-color:silver;
   
 }
 
@@ -46,8 +46,8 @@ h1 {
   
 
 nav {
- background-color:black;
- color: #b8860b;
+ background-color:silver;
+ color: black;
   display:flex-block;
   justify-content: flex-end;
 	display: center;
