@@ -4,7 +4,7 @@ body {
   font-family:'Tourney', cursive;
   background-color:silver ;
 	background-image: url('HnpKwfZ.jpg');
-	color: red;
+	color: black;
  
   
   
@@ -23,14 +23,14 @@ header {
 
 header .row,
 footer .row {
-  color:white ;
+  color:black ;
   background-color:silver;
  
 
   
  display: center;
   align-items: center;
-  color:red;
+  color:black;
   background-color:silver;
   
 }
@@ -78,7 +78,7 @@ color: White;
 display :center-block;
 
   background-size:cover;
-  color:#b8860b;
+  color:black;
   background-color:White;
   height: 11px;
 }
@@ -88,7 +88,7 @@ background-image:silver;
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
-  color:#bce98b ;
+  color:black ;
  
 
  
@@ -99,14 +99,14 @@ background-image:silver;
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: red;
-  background-color:black;
+  color: black;
+  background-color:silver;
   display:center;
  
 }
 
 section .row img {
-  color:red;
+  color:black;
   display: center;
   
 
@@ -116,32 +116,32 @@ section .row img {
 }
 
 .col-md-6 {
-  color: red;
-  background-color: black;
+  color: black;
+  background-color: white;
   margin: 0 0 auto;
 }
 
 .btn.btn-primary {
   border-radius: 9px;
   border: 9px;
-  color: red;
-  background-color:black ;
+  color: black;
+  background-color:silver ;
 }
 
 .btn.btn-primary:hover {
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: silver;
 	display: center;
 }
 
 .btn-secondary {
-  background-color:black;
-  color: white;
+  background-color:silver ;
+  color:black ;
   margin: 0 0 0 7px
 }
 .button {
   display: center;
-  color:white;
+  color:black;
   }
   
 .portrait {
@@ -152,10 +152,10 @@ section .row img {
 }
 
 figure img {
-  color:white;
+  color:black;
   width: 3px;
   height: 3px;
-  background-color: black
+  background-color:silver;
 
 }
 
