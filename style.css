@@ -169,7 +169,7 @@ footer {
   font-size: 7px;
   padding: 7px 0;
   color:white;
-  background-color:black;
+  background-color:silver;
 
 
 
@@ -177,7 +177,7 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:black;
+  background-color:silver;
   color:white;
   display: flex-center;
   justify-content: flex-end;
@@ -185,6 +185,6 @@ footer .col-sm-8 {
 
 footer ul {
   color:white;
-  background-color:black;
+  background-color:silver;
   list-style: flex;
 }
