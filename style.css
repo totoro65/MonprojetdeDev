@@ -99,14 +99,14 @@ background-image:silver;
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: white;
+  color: red;
   background-color:black;
   display:center;
  
 }
 
 section .row img {
-  color:white;
+  color:red;
   display: center;
   
 
@@ -116,7 +116,7 @@ section .row img {
 }
 
 .col-md-6 {
-  color: white;
+  color: red;
   background-color: black;
   margin: 0 0 auto;
 }
@@ -124,7 +124,7 @@ section .row img {
 .btn.btn-primary {
   border-radius: 9px;
   border: 9px;
-  color: white;
+  color: red;
   background-color:black ;
 }
 
