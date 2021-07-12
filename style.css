@@ -178,13 +178,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:silver;
-  color:white;
+  color:red;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:white;
+  color:red;
   background-color:silver;
   list-style: flex;
 }
