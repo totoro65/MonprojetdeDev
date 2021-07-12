@@ -30,7 +30,7 @@ footer .row {
   
  display: center;
   align-items: center;
-  color:white;
+  color:red;
   background-color:silver;
   
 }
@@ -64,7 +64,7 @@ color: White;
 }
   
   a {
-	color: White; text-decoration: none;
+	color: red; text-decoration: none;
 }
 	a:hover {
 		color: silver;
