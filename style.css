@@ -3,7 +3,7 @@
 body {
   font-family:'Tourney', cursive;
   background-color:black ;
-	background-image: url('887371.jpg');
+	background-image:none;
 	color: blue;
        font-size: 30px;
   
@@ -14,11 +14,11 @@ body {
 header {
  color: black;
  background-color:silver;
- background-image:none;
-  display:center;
+ background-image:url ('887371.jpg');
+  display:flex-center;
    padding: 60px 0;
    
-   font-size:25px;
+   font-size:20px;
 }
 
 header .row,
