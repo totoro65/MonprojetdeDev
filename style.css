@@ -14,7 +14,7 @@ body {
 header {
  color: white;
  background-color:#a7d6ff;
- background-image:url ('887371.jpg');
+ background-image:url ('thumb-1920-1156620.jp');
   display:flex-center;
    padding: 60px 0;
    
@@ -23,8 +23,8 @@ header {
 
 header .row,
 footer .row {
-  color:white;
-  background-color:black;
+  color:black;
+  background-color:none;
 background-image: url ('thumb-1920-1156620.jpg');
  
 
