@@ -2,7 +2,7 @@
  
 body {
   font-family:'Tourney', cursive;
-  background-color:maroon ;
+  background-color:#231301;
 	background-image:none;
 	color: blue;
        font-size: 30px;
@@ -13,7 +13,7 @@ body {
 
 header {
  color: blue;
- background-color:none;
+ background-color:#231301;
  background-image:url ('887371.jpg');
   display:flex-center;
    padding: 60px 0;
@@ -24,14 +24,14 @@ header {
 header .row,
 footer .row {
   color:blue ;
-  background-color:silver;
+  background-color:white;
  
 
   
  display: center;
   align-items: center;
   color:black;
-  background-color:silver;
+  background-color:white;
   
 }
 
