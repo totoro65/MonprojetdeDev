@@ -58,16 +58,16 @@ nav {
   
 
 a {
-color: black;
+color: lime;
   padding: 21px ;
   margin:  21px;
 }
   
   a {
-	color: black; text-decoration: none;
+	color: lime; text-decoration: none;
 }
 	a:hover {
-		color: black;
+		color: lime;
 	}
 
 .jumbotron {
