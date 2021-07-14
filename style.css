@@ -2,9 +2,9 @@
  
 body {
   font-family:'Tourney', cursive;
-  background-color:#231301;
+  background-color:#a7d6ff;
 	background-image:none;
-	color: blue;
+	color: white;
        font-size: 30px;
   
   
@@ -12,8 +12,8 @@ body {
 }
 
 header {
- color: blue;
- background-color:#231301;
+ color: white;
+ background-color:#a7d6ff;
  background-image:url ('887371.jpg');
   display:flex-center;
    padding: 60px 0;
@@ -23,20 +23,20 @@ header {
 
 header .row,
 footer .row {
-  color:blue ;
-  background-color:white;
+  color:white;
+  background-color:black;
  
 
   
  display: center;
   align-items: center;
-  color:black;
-  background-color:white;
+  color:white;
+  background-color:black;
   
 }
 
 h1 {
-  color:black;
+  color:white;
   background-image:none;
   height: flex-bottom;
   font-weight: 16px;
@@ -47,7 +47,7 @@ h1 {
 
 nav {
  background-color:silver;
- color: black;
+ color: red;
   display:flex-block;
   justify-content: flex-end;
 	display: center;
