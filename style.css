@@ -64,10 +64,10 @@ color: lime;
 }
   
   a {
-	color: lime; text-decoration: none;
+	color: pink; text-decoration: none;
 }
 	a:hover {
-		color: lime;
+		color: pink;
 	}
 
 .jumbotron {
