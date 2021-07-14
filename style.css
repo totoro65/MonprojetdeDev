@@ -152,7 +152,7 @@ section .row img {
 }
 
 figure img {
-  color:black;
+  color:white;
   width: 3px;
   height: 3px;
   background-color:silver;
@@ -168,8 +168,8 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:black;
-  background-color:silver;
+  color:pink;
+  background-color:black;
 
 
 
@@ -177,14 +177,14 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:silver;
-  color:black;
+  background-color:black;
+  color:pink;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:black;
-  background-color:silver;
+  color:pink;
+  background-color:black;
   list-style: flex;
 }
