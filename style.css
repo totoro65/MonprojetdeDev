@@ -145,7 +145,7 @@ section .row img {
   }
   
 .portrait {
-  color:red;
+  color:none;
   
   width:  0 auto;
   height: 0 auto;
@@ -178,13 +178,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:black;
-  color:pink;
+  color:grey;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:pink;
+  color:grey;
   background-color:black;
   list-style: flex;
 }
